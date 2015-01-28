@@ -17,3 +17,5 @@ By me and me and me
 It's just for me :)
 
 aaaaaaa bbbbbbbbbb ccccccccccc sssssssss
+
+2015 Git.Training
