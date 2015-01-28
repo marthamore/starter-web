@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Juan Camaneir	email@hotaccounts.com
 
 # THANKS
 
