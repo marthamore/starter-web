@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a website project for me to play with. Adding more text here alalalal
+This is a website project for me to play with. Adding more text here alalalal, and rebase more more more
 
 ## Introduction
 This is the first repo to learn more about git and htis and that
