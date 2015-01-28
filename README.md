@@ -21,3 +21,4 @@ aaaaaaa bbbbbbbbbb ccccccccccc sssssssss
 ZZZZZZZZZZ YYYYYYYY XXXXXXXXXXX
 
 2015 Git.Training
+rights reserved
